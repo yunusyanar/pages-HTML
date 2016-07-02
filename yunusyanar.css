@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+nav select {
+  display: none;
+}
+/* Read More G59P adnanguney----*/
+.readmore{margin-bottom:5px;float:right;}
+.readmore a{color:#FFFFFF;background:#4285F4;font-size:12px;line-height:12px;display:inline-block;text-decoration:none;text-transform:none;padding:8px 14px;}
+.readmore a:hover{color:#FFFFFF;background:#160000;text-decoration:none;}
+.postmeta-primary,.postmeta-secondary{color:#999;font-size:12px;line-height:18px;padding:0 0 10px;}
+/* Madde İşareti Edit
+----------------------------- */
+.post ul li {list-style-image:url('http://i.hizliresim.com/WYDaEY.png');transition:all 0.5s ease-in-out 0s;}
+.post ul li:hover {list-style-image:url('http://i.hizliresim.com/81z527.png');}
+/* Bitiş */
+.quickedit{display:none;}
+.kutucuk
+{
+background-color:#ffb519;
+width:600px;
+height:60px;
+display:block;
+-khtml-border-radius:5px;
+-webkit-border-radius:5px;
+-moz-border-radius:5px;
+border-radius: 5px;
+}
